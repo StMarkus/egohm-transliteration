@@ -1,12 +1,13 @@
 # Review of the arabic Vocalisiation
 
-1. **Click Variant A or B.** The selection is highlighted in green.
-2. If both are wrong: write the correct form in the "or other form" field.
+1. Open <a href="review.html">review.html</a>
+2. **Click Variant A or B.** The selection is highlighted in green.
+3. If both are wrong: write the correct form in the "or other form" field.
    Only add vowel marks — the letters must stay the same (no ‎ى → ‎ي, no
    ‎ا → ‎أ).
-3. The progress is shown in the bar at the bottom. "Next open" jumps to the
+4. The progress is shown in the bar at the bottom. "Next open" jumps to the
    first undecided card.
-4. At the end, click **"Download decisions"** — this creates
+5. At the end, click **"Download decisions"** — this creates
    `entscheidungen.csv` in the download folder. Please send this file back.
 
 Progress is stored in the browser (localStorage). You can close it in between
