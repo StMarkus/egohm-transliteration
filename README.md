@@ -1,0 +1,2 @@
+# egohm-transliteration
+Arabischen Vokalisierung
