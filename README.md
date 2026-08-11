@@ -1,6 +1,6 @@
 # Review of the arabic Vocalisiation
 
-1. Open <a href="review.html">review.html</a>
+1. Open <a href="paket1.html">paket1.html</a> and later <a href="paket2.html">paket2.html</a>
 2. **Click Variant A or B.** The selection is highlighted in green.
 3. If both are wrong: write the correct form in the "or other form" field.
    Only add vowel marks — the letters must stay the same (no ‎ى → ‎ي, no
